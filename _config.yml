@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "My Coding Diary"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "ARUYMEEK"
+name                     : "aruymeek"
 description              : "An amazing website."
 url                      : "https://aruymeek.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "aruymeek"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #"hello!"
+  bio              : "🇰🇷 YURA KIM"
   location         : "Seoul, South Korea"
   email            : "yxxakim96@gmail.com"
   links:
